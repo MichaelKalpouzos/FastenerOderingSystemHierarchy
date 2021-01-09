@@ -1,2 +1,2 @@
 # FastenerOderingSystemHierarchy
-This is a program that acts as a fastener ordering system that uses hierarchy code to function.
+This is a program that uses heirarchy code structure to create a fastener ordering system.
